@@ -1,0 +1,172 @@
+.center{
+	padding-left: 6em;
+
+
+}
+
+.right{
+	padding-right: 2.5em;
+
+}
+
+.html{
+	margin:2em;
+	padding: 2em;
+	display:-webkit-box;
+
+
+}
+
+#left{
+	position: relative;
+	top: -2.35em;
+}
+
+{
+	background-color: pink;
+}
+
+a{
+	/*background-color: pink;
+	text-decoration: none;
+	color: white;*/
+}
+
+ul{
+	display: -webkit-box;
+	list-style-type: none;
+}
+
+#buy{
+	display:inline-block;
+    height: 2em;
+    width: 10em;
+    border:2px solid;
+ 	text-align: center;
+ 	padding-top:1em;
+ 	border-radius: 10%;
+ 	font-size: 1.2em;
+ 	background-color: pink;
+	text-decoration: none;
+	color: white
+
+ }
+
+.learn
+{
+	display:inline-block;
+    height: 2em;
+    width: 8em;
+    border:2px solid;
+ 	text-align: center;
+ 	padding-top: .85em;
+ 	border-radius: 10%;
+ 	font-size: 1em;
+ 	background-color: pink;
+	text-decoration: none;
+	color: white
+ }
+
+ #ok{
+	display:inline-block;
+    height: 1.5em;
+    width: 3em;
+    border:2px solid;
+ 	text-align: center;
+ 	padding-top: .5em;
+ 	border-radius: 10%;
+ 	background-color: pink;
+	text-decoration: none;
+	color: white
+ 	
+
+ }
+
+
+
+.accept  {
+	background-color: pink;
+	display:inline-block;
+    height: 2em;
+    width: 8em;
+    border:none;
+ 	text-align: center;
+ 	vertical-align: middle;
+ 	padding-top: .5em;
+ 	border-radius: 10%;
+ 	font-size: 1em;
+ 	color: white;
+
+ }
+
+ .learn-more{
+
+
+	background-color: pink;
+	display:inline-block;
+    height: 1.5em;
+    width: 8em;
+    border:none;
+ 	text-align: center;
+ 	vertical-align: middle;
+ 	padding-top: .5em;
+ 	border-radius: 10%;
+ 	font-size: 1em;
+ 	color: white;
+	text-decoration: none; 	
+ }
+
+ .navi{
+ 	height:2em;
+	background-color: pink;
+	text-align: center;
+	border-radius: 10%;
+	padding-top: .3em;
+	text-decoration: none;
+	color: white;
+
+	
+ }
+
+.navi a{
+	height:2em;
+	background-color: pink;
+	margin-right: 3em;
+	margin-left: 1.5em;
+	font-size: 1.1em;
+	text-align: center;
+	border-radius: 10%;
+	padding-top: .3em;
+	text-decoration: none;
+	color: white
+}
+
+.navi a:hover{
+	color:lightblue;
+}
+
+
+
+.pagination {
+	list-style-type: none;
+	display: -webkit-box;
+	margin-left: 0;
+
+	
+}
+
+.pagination li a{
+	padding: 1em;
+	list-style-type: none;
+	color:pink;
+	font-weight: bold;
+}
+
+.pagination li:first-child a, .pagination li:last-child a {
+	text-decoration: none;
+
+}
+
+.tweets{
+	display: -webkit-box;
+}
